@@ -1,0 +1,16 @@
+[
+	{
+		"id": "parche_0_1_17",
+		"fecha": "2026-11-24",
+		"tipo": "parche",
+		"titulo": "Novedades de la versión 0.1.17",
+		"texto": "[b]Día y noche[/b]\n• Cada 5 minutos se hace de noche o de día (abajo a la izquierda ves cuánto falta).\n• De noche salen peces que de día no salen, y al revés.\n\n[b]22 especies nuevas[/b] (98 en total): 9 de noche, 9 de día y 4 que salen siempre. El Pez Luna Llena ahora solo sale de noche.\n\n[b]Zonas de pesca[/b] (botón ZONA)\n• Río, Costa, Fosa Abisal, Lago Encantado y Lago de las Estrellas.\n• Se abren descubriendo especies y en cada una salen más las de su tema.\n\n[b]Diario[/b]: recompensa por entrar cada día y 3 misiones diarias.\n\n[b]Ranking semanal[/b]: monedas de la semana, mejor captura y Fama. Elige tu nombre de pescador para salir.\n\n[b]Acuarios temáticos[/b]: cada especie tiene un tema; junta peces del mismo tema para ganar más.\n\n[b]Medallas de récord[/b] de bronce, plata y oro en la Colección.\n\n[b]Más cosas[/b]\n• Skins del pescador y del fondo del estanque.\n• Usuario con contraseña para recuperar tu partida en cualquier dispositivo.\n• Apartado de Tutoriales para repasarlos cuando quieras.\n• Logros nuevos (92 en total) y este apartado de Noticias."
+	},
+	{
+		"id": "bienvenida_noticias",
+		"fecha": "2026-11-24",
+		"tipo": "aviso",
+		"titulo": "¡Ya hay Noticias!",
+		"texto": "Aquí avisaremos de los eventos, de las novedades de cada versión y de cualquier cosa importante del juego.\n\nCuando haya algo nuevo, el botón NOTICIAS lo marcará con un número."
+	}
+]
