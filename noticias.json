@@ -1,5 +1,12 @@
 [
 	{
+		"id": "parche_0_1_22",
+		"fecha": "2026-11-26",
+		"tipo": "parche",
+		"titulo": "Novedades de la versión 0.1.22",
+		"texto": "[b]Buzón[/b] (botón BUZÓN)\n• Regalos del creador del juego. Reclámalos cuando quieras: uno por cuenta.\n• Cada regalo dura 15 días. Para recibirlos necesitas una cuenta (nombre de pescador y contraseña).\n• ¡Ya tienes el primero esperándote: suerte ×3 y pescar el doble de rápido durante 10 minutos, y 1.000.000 de monedas!\n\n[b]Arreglos en el móvil[/b]\n• El juego ya no se queda colgado y se cierra al abrirlo después de mucho tiempo fuera.\n• El botón «atrás» del móvil cierra la ventana abierta en vez de salir del juego. En la pantalla principal, púlsalo dos veces para salir.\n• La barra de arriba ya no se sale de la pantalla ni corta las monedas.\n• El nombre, el guardado en internet, el ranking y los códigos ya funcionan en la app (fallaban con «sin conexión»).\n\n[b]Más cosas[/b]\n• Cerrar sesión: en Ajustes » Vincular o pasar partida, para entrar con otra cuenta.\n• Los efectos muestran cuánto les queda en minutos.\n• Arreglado el ranking en el navegador."
+	},
+	{
 		"id": "parche_0_1_17",
 		"fecha": "2026-11-24",
 		"tipo": "parche",
